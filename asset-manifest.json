@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pokemon-Card-Game/static/css/main.a36f2013.chunk.css",
+    "main.js": "/Pokemon-Card-Game/static/js/main.70e0cd96.chunk.js",
+    "main.js.map": "/Pokemon-Card-Game/static/js/main.70e0cd96.chunk.js.map",
+    "runtime-main.js": "/Pokemon-Card-Game/static/js/runtime-main.f760f188.js",
+    "runtime-main.js.map": "/Pokemon-Card-Game/static/js/runtime-main.f760f188.js.map",
+    "static/js/2.54d62e3f.chunk.js": "/Pokemon-Card-Game/static/js/2.54d62e3f.chunk.js",
+    "static/js/2.54d62e3f.chunk.js.map": "/Pokemon-Card-Game/static/js/2.54d62e3f.chunk.js.map",
+    "index.html": "/Pokemon-Card-Game/index.html",
+    "precache-manifest.249668a5ec3ebb9b561c1272bd381892.js": "/Pokemon-Card-Game/precache-manifest.249668a5ec3ebb9b561c1272bd381892.js",
+    "service-worker.js": "/Pokemon-Card-Game/service-worker.js",
+    "static/css/main.a36f2013.chunk.css.map": "/Pokemon-Card-Game/static/css/main.a36f2013.chunk.css.map",
+    "static/js/2.54d62e3f.chunk.js.LICENSE.txt": "/Pokemon-Card-Game/static/js/2.54d62e3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f760f188.js",
+    "static/js/2.54d62e3f.chunk.js",
+    "static/css/main.a36f2013.chunk.css",
+    "static/js/main.70e0cd96.chunk.js"
+  ]
+}
